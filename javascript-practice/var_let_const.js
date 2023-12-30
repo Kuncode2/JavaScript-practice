@@ -3,11 +3,11 @@
 //  function a(){
     // This is the functional scope
 //  } 
-//  {
-//     //This is the blog scope
-//  }
 
- // var is functional scope but the const and the let is block scope 
+//  {
+//     This is the blog scope
+//  }
+// var is functional scope but the const and the let is block scope 
 
 //  var v = 2
 //  {
@@ -34,7 +34,7 @@
 
 // ===================================================================================
 // declartion 
-// // we can declare a variable multipe time  with using var but  not in let and const
+// we can declare a variable multipe time  with using var but  not in let and const
 // let a =55
 // {
 //     let a = 2
@@ -57,7 +57,4 @@
 // a = 2
 
 // for lat and const  -- this will give error that we canot give value before we inilitize it  
-//  they are hosted in temporary dead zone -(variables declared with let and const exist but cannot be accessed or assigned any valu)
- 
-
-
+//  they are hosted in temporary dead zone -(variables declared with let and const exist but cannot be accessed or assigned any value)

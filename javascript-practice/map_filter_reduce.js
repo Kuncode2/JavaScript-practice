@@ -32,6 +32,7 @@
 // console.log(b);
 
 //======= QUESTIONS ===========
+
 // Q-1 => return only name of student in captical
 
 // let student = [
@@ -82,3 +83,4 @@
 // .reduce((ini,curr) => ini+curr.marks,0)
 
 // console.log(a);
+
