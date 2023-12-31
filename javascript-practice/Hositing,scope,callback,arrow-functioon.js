@@ -45,8 +45,22 @@
 
 //Q6 - Function scope - O/P Based Question
 
-for (let i = 0; i<5;i++){
-    setTimeout(function(){
-        console.log(i);
-    },i *1000)
-}
+// for (let i = 0; i<5;i++){
+//     setTimeout(function(){
+//         console.log(i);
+//     },i *1000)
+// }
+
+//Q7 - Function Hoisting
+//console.log(a);
+//a = 20   //  in this it  will give error that the variable not been initilaized
+
+// a()
+// function a(){
+//     console.log(a);
+//     console.log("lunal");
+// }
+
+// var a = 20
+
+
